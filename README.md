@@ -1,7 +1,8 @@
 # AnimalShelterTelegramBot
 ## AM: https://github.com/am9999072080
 
-![dog_and_cat](https://github.com/am9999072080/AnimalShelterTelegramBot/assets/127240321/32e9a57a-7433-476a-a03b-de49f79f8c4d)
+![dog_cat](https://github.com/am9999072080/AnimalShelterTelegramBot/assets/127240321/bb1e1c41-911b-4946-b6fb-629809224380)
+
 
 ## Description:
 * A project to create a Telegram bot that will help an animal shelter.
