@@ -1,5 +1,5 @@
 # AnimalShelterTelegramBot
-## AM https://github.com/am9999072080
+## AM: https://github.com/am9999072080
 
 ![dog_and_cat](https://github.com/am9999072080/AnimalShelterTelegramBot/assets/127240321/32e9a57a-7433-476a-a03b-de49f79f8c4d)
 
@@ -19,4 +19,4 @@
 * Expected results:
 * Creation of a Telegram bot that will help users learn more about the animal shelter and help the shelter find new owners for its charges.
 
-# Thank you for your attention!
+# Thank you!
